@@ -10,7 +10,7 @@ Users will be able to:
 - On a separate part of the page, display all the images the user has queried thus far
 
 # Here's how Screenshot App looks:
-<img src="src/assets/ScreenshotAPI.gif" title="Flashcards gif" alt="Flashcards gif">
+<img src="cap3/src/assets/ScreenshotAPI.gif" title="Flashcards gif" alt="Flashcards gif">
 
 # Getting started
 **Install dependencies**
